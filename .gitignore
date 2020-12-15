@@ -8,3 +8,5 @@ build/
 *.vcxproj
 
 *.filters
+
+yaml-cpp.vcxproj.user
